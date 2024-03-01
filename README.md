@@ -1,3 +1,4 @@
+![Header](riya.png)
 <h1 align="center">Hi 👋, I'm Riya Saxena</h1>
 <h3 align="center">A passionate frontend developer and Data Science enthusiast from India</h3>
 
